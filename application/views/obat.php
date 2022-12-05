@@ -39,7 +39,7 @@
       <i class="bi bi-list mobile-nav-toggle"></i>
     </nav>
     <!-- .navbar -->
-    <a href="<?= base_url('user/login') ?>" class="login-btn"><span class="d-none d-md-inline"></span>Login</a>
+    <!-- <a href="<?= base_url('user/login') ?>" class="login-btn"><span class="d-none d-md-inline"></span>Login</a> -->
 
   </div>
 </header>
